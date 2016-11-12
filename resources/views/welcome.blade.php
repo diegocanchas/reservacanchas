@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 7 What WEA this Laravel</div>
+                <div class="title">Desarrollando en Laravel </div>
             </div>
         </div>
     </body>
